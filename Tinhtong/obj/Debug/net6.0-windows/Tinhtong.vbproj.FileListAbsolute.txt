@@ -1,0 +1,17 @@
+D:\C++\winforms\Tinhtong\Tinhtong\obj\Debug\net6.0-windows\Tinhtong.vbproj.AssemblyReference.cache
+D:\C++\winforms\Tinhtong\Tinhtong\obj\Debug\net6.0-windows\Tinhtong.Bai1.resources
+D:\C++\winforms\Tinhtong\Tinhtong\obj\Debug\net6.0-windows\Tinhtong.vbproj.GenerateResource.cache
+D:\C++\winforms\Tinhtong\Tinhtong\obj\Debug\net6.0-windows\Tinhtong.GeneratedMSBuildEditorConfig.editorconfig
+D:\C++\winforms\Tinhtong\Tinhtong\obj\Debug\net6.0-windows\Tinhtong.AssemblyInfoInputs.cache
+D:\C++\winforms\Tinhtong\Tinhtong\obj\Debug\net6.0-windows\Tinhtong.AssemblyInfo.vb
+D:\C++\winforms\Tinhtong\Tinhtong\obj\Debug\net6.0-windows\Tinhtong.vbproj.CoreCompileInputs.cache
+D:\C++\winforms\Tinhtong\Tinhtong\bin\Debug\net6.0-windows\Tinhtong.exe
+D:\C++\winforms\Tinhtong\Tinhtong\bin\Debug\net6.0-windows\Tinhtong.deps.json
+D:\C++\winforms\Tinhtong\Tinhtong\bin\Debug\net6.0-windows\Tinhtong.runtimeconfig.json
+D:\C++\winforms\Tinhtong\Tinhtong\bin\Debug\net6.0-windows\Tinhtong.dll
+D:\C++\winforms\Tinhtong\Tinhtong\bin\Debug\net6.0-windows\Tinhtong.pdb
+D:\C++\winforms\Tinhtong\Tinhtong\obj\Debug\net6.0-windows\Tinhtong.dll
+D:\C++\winforms\Tinhtong\Tinhtong\obj\Debug\net6.0-windows\refint\Tinhtong.dll
+D:\C++\winforms\Tinhtong\Tinhtong\obj\Debug\net6.0-windows\Tinhtong.pdb
+D:\C++\winforms\Tinhtong\Tinhtong\obj\Debug\net6.0-windows\Tinhtong.genruntimeconfig.cache
+D:\C++\winforms\Tinhtong\Tinhtong\obj\Debug\net6.0-windows\ref\Tinhtong.dll
